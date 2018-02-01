@@ -1,5 +1,5 @@
 # LINC_Android-Basic_201802
 
 
-2017³âµµ 2ÇĞ±â ¸ğ¹ÙÀÏ ÇÁ·Î±×·¡¹Ö ¿¹Á¦ ÄÚµå ÀÚ·á
+- 2017ë…„ë„ 2í•™ê¸° ëª¨ë°”ì¼ í”„ë¡œê·¸ë˜ë° ì˜ˆì œ ì½”ë“œ ìë£Œ: 
 https://github.com/skang-koreatech/MobileProgramming_2017-2
